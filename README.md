@@ -1,19 +1,36 @@
-# 👋 Hallo, ich bin Vitaliy | Hi there, I'm Vitaliy
+# 👋 Hallo, ich bin Vitaliy | Hi there, I'm Vitaliy | Привет, я Виталий
 
-## 🌍 Über mich | About Me
-- 🇩🇪 **Deutsch:** Ich bin ein angehender Entwickler und lerne gerade GitHub.  
-   Ich interessiere mich für Webentwicklung, Programmierung und Algorithmen.
-- 🇬🇧 **English:** I'm an aspiring developer, learning GitHub.  
-   I'm interested in web development, programming, and algorithms.
+## 🌍 Über mich | About Me | Обо мне
 
-## 🔧 Fähigkeiten | Skills
-- **Sprachen | Languages:** HTML, CSS, C++, Python  
-- **Tools:** Visual Studio Code, Git, GitHub  
+- 🇩🇪 **Deutsch:** Webentwickler mit technischem Hintergrund in Radiophysik & Informatik.  
+  Weiterbildung in Frontend- & Backend-Technologien bei Coding Bootcamps Europe.  
+- 🇬🇧 **English:** Web developer with a technical background in radiophysics & computer science.  
+  Recently completed a full-stack web development bootcamp in Germany.  
+- 🇷🇺 **Русский:** Веб-разработчик с техническим бэкграундом в радиофизике и информатике.  
+  Прошёл обучение веб-разработке (Frontend + Backend) в Германии.
 
-## 🚀 Ziele | Goals
-- 🇩🇪 **Deutsch:** Meine Ziele sind, meine Programmierfähigkeiten zu verbessern und neue Technologien zu lernen.  
-- 🇬🇧 **English:** My goals are to improve my coding skills and learn new technologies.
+## 🔧 Skills
+
+- **Languages:** HTML, CSS, JavaScript, C++, Python  
+- **Frameworks:** Vue.js, Node.js  
+- **Tools:** Git, GitHub, VS Code  
+
+## 💼 Projekte | Projects
+
+- **Job Tracker** – Bewerbungsmanager (Vue + Node)  
+  _Final Project @ Coding Bootcamp_  
+  Features: Bewerbungsstatus, Filter, Statistiken, PDF-Export
+
+## 🎯 Ziele | Goals
+
+- 🇩🇪 Einen Job als Webentwickler finden, weiterlernen, im Team wachsen  
+- 🇬🇧 Get my first job in web development and grow as a team player  
+- 🇷🇺 Найти первую работу в веб-разработке, учиться и расти в команде
 
 ---
 
-✨ Folge mir auf meinem Weg zur Entwicklung! | Follow me on my developer journey! 🚀
+📫 **Kontakt | Contact:**  
+📧 vitalyabelyh@gmail.com  
+💻 [github.com/vitalya834](https://github.com/vitalya834)
+
+🚀 Folge mir auf meinem Weg! | Follow my journey! | Следи за моим ростом!
