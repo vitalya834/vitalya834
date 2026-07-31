@@ -1,36 +1,37 @@
-# 👋 Hallo, ich bin Vitaliy | Hi there, I'm Vitaliy | Привет, я Виталий
+# Vitaliy Belykh
 
-## 🌍 Über mich | About Me | Обо мне
+### Software Developer · Web Applications & Systems Programming
 
-- 🇩🇪 **Deutsch:** Webentwickler mit technischem Hintergrund in Radiophysik & Informatik.  
-  Weiterbildung in Frontend- & Backend-Technologien bei Coding Bootcamps Europe.  
-- 🇬🇧 **English:** Web developer with a technical background in radiophysics & computer science.  
-  Recently completed a full-stack web development bootcamp in Germany.  
-- 🇷🇺 **Русский:** Веб-разработчик с техническим бэкграундом в радиофизике и информатике.  
-  Прошёл обучение веб-разработке (Frontend + Backend) в Германии.
+I build practical software across the stack — from Vue and Nuxt interfaces
+to Node.js services and C/C++ systems projects. I care about clear
+architecture, predictable behavior, secure defaults, and documentation that
+makes a project easy to run and maintain.
 
-## 🔧 Skills
+Based in Germany and open to software development roles and technical
+collaboration.
 
-- **Languages:** HTML, CSS, JavaScript, C++, Python  
-- **Frameworks:** Vue.js, Node.js  
-- **Tools:** Git, GitHub, VS Code  
+## Selected work
 
-## 💼 Projekte | Projects
+| Project | What it demonstrates | Technology |
+| --- | --- | --- |
+| [Job Tracker](https://github.com/vitalya834/job-tracker) | Full-stack workflow for managing applications, documents, status, filtering, and statistics | Vue, Node.js, Express, MongoDB |
+| [Resume AI](https://github.com/vitalya834/resume-ai-nuxt) | AI-assisted résumé and job analysis with server-side credential handling | Nuxt, Vue, TypeScript, OpenAI API |
+| [POP3 Server](https://github.com/vitalya834/POP3server) | Multithreaded RFC 1939 server and console client with protocol-state handling and smoke tests | C++, WinSock |
+| [Mark-Sweep Lab](https://github.com/vitalya834/mark-sweep-lab) | Portable garbage collector with cyclic graphs, weak references, tests, and heap visualization | C11, CMake, Graphviz |
 
-- **Job Tracker** – Bewerbungsmanager (Vue + Node)  
-  _Final Project @ Coding Bootcamp_  
-  Features: Bewerbungsstatus, Filter, Statistiken, PDF-Export
+## Core stack
 
-## 🎯 Ziele | Goals
+`JavaScript` · `TypeScript` · `Vue` · `Nuxt` · `Node.js` · `Express` ·
+`MongoDB` · `C` · `C++` · `Git` · `REST APIs`
 
-- 🇩🇪 Einen Job als Webentwickler finden, weiterlernen, im Team wachsen  
-- 🇬🇧 Get my first job in web development and grow as a team player  
-- 🇷🇺 Найти первую работу в веб-разработке, учиться и расти в команде
+## How I work
 
----
+- Build complete features across frontend, backend, and data layers.
+- Improve existing codebases through debugging, dependency updates, and safer configuration.
+- Treat tests, reproducible setup, and concise documentation as part of the product.
+- Work comfortably in German, English, and Russian.
 
-📫 **Kontakt | Contact:**  
-📧 vitalyabelyh@gmail.com  
-💻 [github.com/vitalya834](https://github.com/vitalya834)
+## Contact
 
-🚀 Folge mir auf meinem Weg! | Follow my journey! | Следи за моим ростом!
+- Email: [vitalyabelyh@gmail.com](mailto:vitalyabelyh@gmail.com)
+- GitHub: [github.com/vitalya834](https://github.com/vitalya834)
