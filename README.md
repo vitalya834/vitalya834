@@ -3,8 +3,8 @@
 **Automation, SCADA & Industrial IT | Software Development**
 
 Engineer based in Bonn, Germany, with professional experience in industrial
-automation, SCADA environments and WinCC/HMI visualization. I hold a German-
-recognized Bachelor's degree in Radiophysics and have expanded my engineering
+automation, SCADA environments and WinCC/HMI visualization. I hold a Bachelor's
+degree in Radiophysics recognized in Germany and have expanded my engineering
 background with modern web development.
 
 I combine practical fault analysis, technical documentation and software
