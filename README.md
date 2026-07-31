@@ -1,36 +1,59 @@
-# 👋 Hallo, ich bin Vitaliy | Hi there, I'm Vitaliy | Привет, я Виталий
+# Vitalii Belykh
 
-## 🌍 Über mich | About Me | Обо мне
+**Automation, SCADA & Industrial IT | Software Development**
 
-- 🇩🇪 **Deutsch:** Webentwickler mit technischem Hintergrund in Radiophysik & Informatik.  
-  Weiterbildung in Frontend- & Backend-Technologien bei Coding Bootcamps Europe.  
-- 🇬🇧 **English:** Web developer with a technical background in radiophysics & computer science.  
-  Recently completed a full-stack web development bootcamp in Germany.  
-- 🇷🇺 **Русский:** Веб-разработчик с техническим бэкграундом в радиофизике и информатике.  
-  Прошёл обучение веб-разработке (Frontend + Backend) в Германии.
+Engineer based in Bonn, Germany, with professional experience in industrial
+automation, SCADA environments and WinCC/HMI visualization. I hold a German-
+recognized Bachelor's degree in Radiophysics and have expanded my engineering
+background with modern web development.
 
-## 🔧 Skills
+I combine practical fault analysis, technical documentation and software
+development to understand systems from the plant level to the user interface.
 
-- **Languages:** HTML, CSS, JavaScript, C++, Python  
-- **Frameworks:** Vue.js, Node.js  
-- **Tools:** Git, GitHub, VS Code  
+## Engineering Profile
 
-## 💼 Projekte | Projects
+- **Industrial automation:** SCADA, WinCC, HMI, plant monitoring, alarms and
+  fault messages, industrial data communication and technical interfaces
+- **Technical work:** fault analysis, troubleshooting, user support and clear
+  documentation of system changes and solutions
+- **Software:** C, C++, JavaScript, Vue/Nuxt, Node.js, Python, REST APIs, JSON
+  and SQL
+- **Tools:** Git, GitHub, Visual Studio, VS Code and CMake
+- **Current learning focus:** Siemens S7, TIA Portal, PLC and EMSR fundamentals
 
-- **Job Tracker** – Bewerbungsmanager (Vue + Node)  
-  _Final Project @ Coding Bootcamp_  
-  Features: Bewerbungsstatus, Filter, Statistiken, PDF-Export
+## Selected Work
 
-## 🎯 Ziele | Goals
+### [Industrial Automation Portfolio](https://github.com/vitalya834/industrial-automation-portfolio)
 
-- 🇩🇪 Einen Job als Webentwickler finden, weiterlernen, im Team wachsen  
-- 🇬🇧 Get my first job in web development and grow as a team player  
-- 🇷🇺 Найти первую работу в веб-разработке, учиться и расти в команде
+Sanitized overview of my SCADA/WinCC experience, troubleshooting workflow and
+technical documentation practices. It contains no proprietary code or customer
+data.
 
----
+### [POP3 Server](https://github.com/vitalya834/POP3server)
 
-📫 **Kontakt | Contact:**  
-📧 vitalyabelyh@gmail.com  
-💻 [github.com/vitalya834](https://github.com/vitalya834)
+Multithreaded POP3 server and console client in C++ with WinSock, protocol-state
+handling and automated smoke tests.
 
-🚀 Folge mir auf meinem Weg! | Follow my journey! | Следи за моим ростом!
+### [Mark-Sweep Lab](https://github.com/vitalya834/mark-sweep-lab)
+
+Portable C11 mark-and-sweep garbage collector with cyclic graph support, tests,
+CI and Graphviz heap export.
+
+### [Resume AI Prototype](https://github.com/vitalya834/resume-ai-nuxt)
+
+Nuxt 3 prototype for AI-assisted resume text improvement and job-description
+keyword analysis.
+
+## Background
+
+- Professional experience as an automation/SCADA engineer at SCAD TECH
+- Web Development Weiterbildung at Coding Bootcamps Europe
+- Bachelor's degree in Radiophysics, recognized in Germany
+- Driver's license, Class B
+
+## Current Focus
+
+Open to roles in **Automation, SCADA, Industrial IT, Field Service and Technical
+Support** in Bonn, Cologne and the wider NRW region.
+
+Contact: [vitalyabelyh@gmail.com](mailto:vitalyabelyh@gmail.com)
