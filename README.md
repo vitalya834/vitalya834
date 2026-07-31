@@ -39,11 +39,6 @@ handling and automated smoke tests.
 Portable C11 mark-and-sweep garbage collector with cyclic graph support, tests,
 CI and Graphviz heap export.
 
-### [Resume AI Prototype](https://github.com/vitalya834/resume-ai-nuxt)
-
-Nuxt 3 prototype for AI-assisted resume text improvement and job-description
-keyword analysis.
-
 ## Background
 
 - Professional experience as an automation/SCADA engineer at SCAD TECH
