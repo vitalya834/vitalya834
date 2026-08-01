@@ -9,5 +9,3 @@ development.
 - C and C++
 - JavaScript, Vue/Nuxt and Node.js
 - REST APIs, SQL and Git
-
-Contact: [vitalyabelyh@gmail.com](mailto:vitalyabelyh@gmail.com)
