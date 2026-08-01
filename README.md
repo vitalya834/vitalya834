@@ -39,12 +39,7 @@ handling and automated smoke tests.
 Portable C11 mark-and-sweep garbage collector with cyclic graph support, tests,
 CI and Graphviz heap export.
 
-## Background
 
-- Professional experience as an automation/SCADA engineer at SCAD TECH
-- Web Development Weiterbildung at Coding Bootcamps Europe
-- Bachelor's degree in Radiophysics, recognized in Germany
-- Driver's license, Class B
 
 ## Current Focus
 
